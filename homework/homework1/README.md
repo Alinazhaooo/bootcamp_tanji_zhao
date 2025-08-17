@@ -1,4 +1,3 @@
-## Framing Worksheet (fill here then move to README)
 ### Problem Statement
 - The project seeks to predict the short-term stock price movement of Apple Inc. using historical closing prices, trading volume, and technical indicators. The purpose is to provide investors and analysts with a data-driven tool to support decision-making in a volatile market environment.
 
