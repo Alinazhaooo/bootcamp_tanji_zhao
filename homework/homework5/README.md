@@ -9,7 +9,7 @@
 - **Parquet**: Columnar storage format, efficient for large datasets (smaller size, faster I/O, preserves dtypes).  
 - Both formats are maintained to balance ease of use (CSV) and performance (Parquet).  
 
-### Env Usage
+## Env Usage
 - **DATA_DIR**: Base path for all data files  
   - Default: `data/` (if not set) 
 - Code will read/write files relative to this variable
